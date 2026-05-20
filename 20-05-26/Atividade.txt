@@ -1,0 +1,30 @@
+Atividade
+
+Perguntas Após finalizar, responda: 
+1. Qual site você criou? 
+2. Quais componentes você criou?  
+3. Onde você reutilizou código?  
+4. Onde utilizou useState?  
+5. Cite 5 motivos para usar React.  
+
+1. Qual site você criou? 
+ R:Eu criei um site de café, chamado de Caffezin do Phelipin.
+
+2. Quais componentes você criou?  
+ R: Os componentes ultilizados foram, header para o cabeçalho, o card para as imagens de café,
+footer para o rodapé e o APP sendo a principal estrutura do aplicativo.
+
+3. Onde você reutilizou código?
+  R: O código reutilizado foi o componente chamado "Card.jsx" usado para, o titulo, descrição e as imagens.
+
+4. Onde utilizou useState? 
+  R: useState foi utilizado no arquivo "src/App.jsx", ele simplesmente serve para ativar e desativar o modo
+ escuro.
+
+5. Cite 5 motivos para usar React. 
+ R: Os motivos são: 
+	Usando o react ele evita repetir o código;
+	Os códigos ficam separados, facilitando na busca e manutenção do código;
+	Ele faz atualizações no site rapidas, sendo o que apenas o que o site mudou no momento;
+	Ele adiciona botões interativos, como o modo escuro;
+	Ele é muito ultilizado no mercado de trabalho, aumentando a oportunidades de empregos.	
